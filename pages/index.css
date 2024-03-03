@@ -81,7 +81,7 @@
 .header__description {
   font-family: "Noto Serif";
   font-style: normal;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 60px;
   line-height: 30px;
   max-width: 683px;
