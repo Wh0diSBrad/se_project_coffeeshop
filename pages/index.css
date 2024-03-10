@@ -225,6 +225,7 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  color: #838383;
   display: block;
   padding: 0;
   box-sizing: border-box;
@@ -238,6 +239,11 @@
 }
 
 .form__button {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
   background-color: #2f80ed;
   color: white;
   width: 100%;
